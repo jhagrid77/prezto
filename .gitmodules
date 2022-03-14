@@ -31,4 +31,4 @@
 	shallow = true
 [submodule "modules/prompt/external/apollo"]
 	path = modules/prompt/external/apollo
-	url = git@github.com:mjrafferty/apollo-zsh-theme.git
+	url = https://github.com/mjrafferty/apollo-zsh-theme.git
